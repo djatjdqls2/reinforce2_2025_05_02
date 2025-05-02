@@ -13,4 +13,3 @@
     
     └── Preprocess.py               # 환경 래핑, 상태 전처리 함수 정의
     
-replay_buffer.pkl                  # 반복 학습을 위한 데이터 저장
